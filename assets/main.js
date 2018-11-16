@@ -1,5 +1,3 @@
-/* Carrd Core JS | carrd.co | License: MIT */
-
 var	on = addEventListener,
 	$ = function(q) { return document.querySelector(q) },
 	$$ = function(q) { return document.querySelectorAll(q) },
